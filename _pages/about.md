@@ -137,17 +137,7 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
-
-
-
-
+- '邓书华', 高协平，胡凯. 一种基于SDN的IPv6网络流量监控方法及系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxKkwEwWhoO1PsakQFik4FgsaWNAWN4J0g3Yfz27CRILVQZawT8Otkt_BV43e_SN5kZgwFXnBTILrGbZjJQWs_WzkgUcc2WcXaNCxztb4ewDdojQYOSqcW7hNDBlTeiR7e_481EOjC1bryIFViakO0LmSmUfeINYtjifcJ6eCxMxifA0GRaLS-hNctuKAOVNndPPLZlhdtoogQPZfs3B_DnIaOuo4bgPLsQ=&uniplatform=NZKPT&language=CHS)
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -160,8 +150,3 @@ redirect_from:
 - *2023.5*,  IEEE Conference on Computer Communications (INFOCOM), New York City, USA.
 
 <span class='anchor' id='-gzsx'></span>
-
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
