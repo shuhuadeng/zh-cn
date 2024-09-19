@@ -137,7 +137,7 @@ redirect_from:
 
 ### 专利
 ---
-- '邓书华', 高协平，胡凯. 一种基于SDN的IPv6网络流量监控方法及系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxKkwEwWhoO1PsakQFik4FgsaWNAWN4J0g3Yfz27CRILVQZawT8Otkt_BV43e_SN5kZgwFXnBTILrGbZjJQWs_WzkgUcc2WcXaNCxztb4ewDdojQYOSqcW7hNDBlTeiR7e_481EOjC1bryIFViakO0LmSmUfeINYtjifcJ6eCxMxifA0GRaLS-hNctuKAOVNndPPLZlhdtoogQPZfs3B_DnIaOuo4bgPLsQ=&uniplatform=NZKPT&language=CHS)
+- `邓书华`, 高协平，胡凯. 一种基于SDN的IPv6网络流量监控方法及系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxKkwEwWhoO1PsakQFik4FgsaWNAWN4J0g3Yfz27CRILVQZawT8Otkt_BV43e_SN5kZgwFXnBTILrGbZjJQWs_WzkgUcc2WcXaNCxztb4ewDdojQYOSqcW7hNDBlTeiR7e_481EOjC1bryIFViakO0LmSmUfeINYtjifcJ6eCxMxifA0GRaLS-hNctuKAOVNndPPLZlhdtoogQPZfs3B_DnIaOuo4bgPLsQ=&uniplatform=NZKPT&language=CHS)
 
 <span class='anchor' id='-ryjx'></span>
 
