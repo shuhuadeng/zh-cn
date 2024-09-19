@@ -44,11 +44,17 @@ redirect_from:
 - `Shuhua Deng`, Xingyu Zhang, Xieping Gao. Poisoning Topology View in Software-Defined Vehicular Network: An Empirical Study. *IEEE Transactions on Intelligent Transportation Systems*. 2024, In press.(CCF B类期刊，中科院一区)  
 [[网页]](https://ieeexplore.ieee.org/document/10606390)
 
+- `Shuhua Deng`, Lihui Chen, Xieping Gao. Manipulating Sensitive Match Fields to Poison Applications in SDN. *IEEE Transaction on Network and Service Management*. 2024, 21(2): 2413-2425. (CCF C类期刊，中科院二区)  
+[[网页]](https://ieeexplore.ieee.org/document/10332465)
+
 ### 中文
 ---
 
 - 	`邓书华`, 卢泽斌, 罗成程, 高协平. SDN研究简述. *计算机应用研究*. 2014,31(11): 3208-3213. (核心期刊)  
 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxLU29BKDeuO5xv6tV4b1pVDqXgLWzojCAe4cUDA8cl7sdYIZixxYOqkrDOLOXnXh_V0HfkFlax5nnbBqFUcoJi0ymwFYp3jHIN5pt-wqK_UN5_d__f0jB_rqaZceM6O6PLkTmzbyNhNN9xiwSterlZeE4IVt6f5OuqlF8xWvvH2Gof-3lN-EWzOM9BQ_wTCnO2y5IlUzx5EcfHrOGJzllJBT2262eQGY3s=&uniplatform=NZKPT&language=CHS)  
+
+- 	`邓书华`, 卢泽斌, 李正发, 高协平. SDN中交换机控制代理拒绝服务攻击研究. *计算机工程*. 2019,45(10): 176-182. (核心期刊)  
+[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxJ8nfXRA9s2q0dvWfpgZ_MwEFUMoWYC8Xw7OH354vrZ1VLH09xKAdWxle2H423jQRcmpvk2Kj0aIGVPDm1IBA_OYrIDkmzESi9y-A5F_ykamKELAPu4ucSnwsKNMWqJaPu1_nv6rMNXTdB4fRcU9Q1mC92HhCz3bAqE4mH0493-Reb4JVDeAsX6CRLn7XDRI5devAeu341jfJqXVdl_acvu9CiPBtOaBpkh_egu7Tp-Dg==&uniplatform=NZKPT&language=CHS)
 
 ### 专利
 ---
