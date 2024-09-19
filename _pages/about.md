@@ -37,7 +37,7 @@ redirect_from:
 - *2020.01-2022.12*, 湘潭大学 计算机学院·网络空间安全学院 讲师
 - *2019.01-2019.12*, 湘潭大学 信息工程学院 讲师
   
-# 🎓 学历
+# 学习经历
 - *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"> 湘潭大学 数学与计算科学学院, 湖南湘潭, 硕博连读 
 - *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/">湘潭大学 信息工程学院, 湖南湘潭, 本科
  
@@ -45,7 +45,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 英文论文
 
 - `Shuhua Deng`, Xingyu Zhang, Xieping Gao. Poisoning Topology View in Software-Defined Vehicular Network: An Empirical Study. *IEEE Transactions on Intelligent Transportation Systems*. 2024, In press.(CCF B类期刊，中科院一区)
 [[网页]](https://ieeexplore.ieee.org/document/10606390)
@@ -77,7 +77,7 @@ redirect_from:
 - Zhengfa Li, Zebin Lu, `Shuhua Deng`, Xieping Gao. A Self-Adaptive Virtual Network Embedding Algorithm Based on Software-Defined Networks. *IEEE Transactions on Network and Service Management*. 2019, 16(1): 362-373.
 [[网页]](https://ieeexplore.ieee.org/document/8496853)
 
-### 中文
+### 中文论文
 ---
 
 - 	`邓书华`, 卢泽斌, 罗成程, 高协平. SDN研究简述. *计算机应用研究*. 2014,31(11): 3208-3213. (核心期刊)  
@@ -86,18 +86,18 @@ redirect_from:
 - 	`邓书华`, 卢泽斌, 李正发, 高协平. SDN中交换机控制代理拒绝服务攻击研究. *计算机工程*. 2019,45(10): 176-182. (核心期刊)  
 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxJ8nfXRA9s2q0dvWfpgZ_MwEFUMoWYC8Xw7OH354vrZ1VLH09xKAdWxle2H423jQRcmpvk2Kj0aIGVPDm1IBA_OYrIDkmzESi9y-A5F_ykamKELAPu4ucSnwsKNMWqJaPu1_nv6rMNXTdB4fRcU9Q1mC92HhCz3bAqE4mH0493-Reb4JVDeAsX6CRLn7XDRI5devAeu341jfJqXVdl_acvu9CiPBtOaBpkh_egu7Tp-Dg==&uniplatform=NZKPT&language=CHS)
 
-### 专利
+### 发明专利
 ---
 - `邓书华`, 高协平，胡凯. 一种基于SDN的IPv6网络流量监控方法及系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=WNLjQhMUSxKkwEwWhoO1PsakQFik4FgsaWNAWN4J0g3Yfz27CRILVQZawT8Otkt_BV43e_SN5kZgwFXnBTILrGbZjJQWs_WzkgUcc2WcXaNCxztb4ewDdojQYOSqcW7hNDBlTeiR7e_481EOjC1bryIFViakO0LmSmUfeINYtjifcJ6eCxMxifA0GRaLS-hNctuKAOVNndPPLZlhdtoogQPZfs3B_DnIaOuo4bgPLsQ=&uniplatform=NZKPT&language=CHS)
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 社会兼职
+# 社会兼职
 - *2023.05* 湖南省网络安全标准化技术委员会委员 [[新闻]](https://www.hunan.gov.cn/hnszf/hnyw/zwdt/202409/t20240911_33452403.html)  
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 学术会议
 - *2023.5*,  IEEE Conference on Computer Communications (INFOCOM), New York City, USA.
 
 <span class='anchor' id='-gzsx'></span>
