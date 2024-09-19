@@ -59,7 +59,7 @@ redirect_from:
 - `Shuhua Deng`, Xing Gao, Zebin Lu, Xieping Gao. Packet Injection Attack and Its Defense in Software-Defined Networks. *IEEE Transactions on Information Forensics and Security*. 2018, 13(3): 695-705. (CCF A类期刊，中科院一区)
 [[网页]](https://www.sciencedirect.com/science/article/pii/S1084804518303333)
 
-- Zhengfa Li, Chuanhe Huang, 'Shuhua Deng', Wanyu Qiu, Xieping Gao. A soft actor-critic reinforcement learning algorithm for network intrusion detection. *Computers & Security*, 2023, 135: 1-15. (CCF B类期刊)
+- Zhengfa Li, Chuanhe Huang, `Shuhua Deng`, Wanyu Qiu, Xieping Gao. A soft actor-critic reinforcement learning algorithm for network intrusion detection. *Computers & Security*, 2023, 135: 1-15. (CCF B类期刊)
 [[网页]](https://www.sciencedirect.com/science/article/pii/S0167404823004121)
 
 - Junru Lei, `Shuhua Deng`, Zebin Lu, Yihao He, Xieping Gao. Energy-saving traffic scheduling in backbone networks with software-defined networks. *Cluster Computing*. 2021, 24: 279-292.
