@@ -38,8 +38,8 @@ redirect_from:
 - *2019.01-2019.12*, 湘潭大学 信息工程学院 讲师
   
 # 学习经历
-- *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"> 湘潭大学 数学与计算科学学院, 湖南湘潭, 硕博连读 
-- *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/">湘潭大学 信息工程学院, 湖南湘潭, 本科
+- *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"> 湘潭大学 数学与计算科学学院, 数学, 硕博连读 
+- *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/">湘潭大学 信息工程学院, 计算机科学与技术, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
