@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "邓书华"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : 
   bio              : "湘潭大学"
   location         : "湖南 湘潭"
   employer         : #"xiangtan university"
