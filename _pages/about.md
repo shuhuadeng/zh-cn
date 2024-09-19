@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 简介
+# 个人简介
 邓书华，博士毕业于湘潭大学数学与计算科学学院，导师高协平教授。本科毕业于湘潭大学信息工程学院。包括合著，在国内外期刊公开发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=pA3O_uIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
@@ -46,7 +46,7 @@ redirect_from:
 # 📝 论文专利
 
 ### 英文论文
-
+---
 - `Shuhua Deng`, Xingyu Zhang, Xieping Gao. Poisoning Topology View in Software-Defined Vehicular Network: An Empirical Study. *IEEE Transactions on Intelligent Transportation Systems*. 2024, In press.(CCF B类期刊，中科院一区)
 [[网页]](https://ieeexplore.ieee.org/document/10606390)
 
