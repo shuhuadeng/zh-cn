@@ -32,8 +32,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 湘潭大学 数学与计算科学学院, 湖南湘潭, 硕博连读 
-- *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 湘潭大学 信息工程学院, 湖南湘潭, 本科
+- *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"> 湘潭大学 数学与计算科学学院, 湖南湘潭, 硕博连读 
+- *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/">湘潭大学 信息工程学院, 湖南湘潭, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -59,6 +59,17 @@ redirect_from:
 - `Shuhua Deng`, Xing Gao, Zebin Lu, Xieping Gao. Packet Injection Attack and Its Defense in Software-Defined Networks. *IEEE Transactions on Information Forensics and Security*. 2018, 13(3): 695-705. (CCF A类期刊，中科院一区)
 [[网页]](https://www.sciencedirect.com/science/article/pii/S1084804518303333)
 
+- Zhengfa Li, Chuanhe Huang, 'Shuhua Deng', Wanyu Qiu, Xieping Gao. A soft actor-critic reinforcement learning algorithm for network intrusion detection. *Computers & Security*, 2023, 135: 1-15. (CCF B类期刊)
+[[网页]](https://www.sciencedirect.com/science/article/pii/S0167404823004121)
+
+- Junru Lei, `Shuhua Deng`, Zebin Lu, Yihao He, Xieping Gao. Energy-saving traffic scheduling in backbone networks with software-defined networks. *Cluster Computing*. 2021, 24: 279-292.
+[[网页]](https://link.springer.com/article/10.1007/s10586-020-03102-5)
+
+- Yihao He, Zebin Lu, Junru Lei, `Shuhua Deng`, Xieping Gao*. Joint Optimization of Energy Saving and Load Balancing for Data Center Networks Based on Software Defined Networks. *Concurrency and Computation: Practice and Experience*. 2021, 33(9): 1-12.
+[[网页]](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6134)
+
+- Zhengfa Li, Zebin Lu, `Shuhua Deng`, Xieping Gao. A Self-Adaptive Virtual Network Embedding Algorithm Based on Software-Defined Networks. *IEEE Transactions on Network and Service Management*. 2019, 16(1): 362-373.
+[[网页]](https://ieeexplore.ieee.org/document/8496853)
 
 ### 中文
 ---
