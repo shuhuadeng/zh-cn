@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我博士毕业于湖南湘潭的 湘潭大学 数学与计算科学学院，我的导师是高协平教授。本科毕业于湖南湘潭的 湘潭大学 信息工程学院。包括合著，我已经发表 10+ 篇学术论文
+邓书华，博士毕业于湘潭大学数学与计算科学学院，导师高协平教授。本科毕业于湘潭大学信息工程学院。包括合著，在国内外期刊公开发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=pA3O_uIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
