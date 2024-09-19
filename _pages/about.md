@@ -44,7 +44,7 @@ redirect_from:
 - `Shuhua Deng`, Xingyu Zhang, Xieping Gao. Poisoning Topology View in Software-Defined Vehicular Network: An Empirical Study. *IEEE Transactions on Intelligent Transportation Systems*. 2024, In press.(CCF B类期刊，中科院一区)
 [[网页]](https://ieeexplore.ieee.org/document/10606390)
 
-- `Shuhua Deng`, Lihui Chen, Xieping Gao. Manipulating Sensitive Match Fields to Poison Applications in SDN. *IEEE Transaction on Network and Service Management*. 2024, 21(2): 2413-2425. (CCF C类期刊，中科院二区)  
+- `Shuhua Deng`, Lihui Chen, Xieping Gao. Manipulating Sensitive Match Fields to Poison Applications in SDN. *IEEE Transaction on Network and Service Management*. 2024, 21(2): 2413-2425. (CCF C类期刊，中科院二区)
 [[网页]](https://ieeexplore.ieee.org/document/10332465)
 
 - `Shuhua Deng`, Xian Qing, Xiaofan Li, Xing Gao, Xieping Gao. SDN Application Backdoor: Disrupting the Service via Poisoning the Topology. *IEEE Conference on Computer Communications (INFOCOM)*. New York City, USA, May 17-20, 2023. (CCF A类会议)
@@ -53,7 +53,7 @@ redirect_from:
 - `Shuhua Deng`, Wenjie Dai, Xian Qing, Xieping Gao. Vulnerabilities in SDN Topology Discovery Mechanism: Novel Attacks and Countermeasures. *IEEE Transactions on Dependable and Secure Computing*. 2024, 21(4): 2541:2551. (CCF A类期刊)
 [[网页]](https://ieeexplore.ieee.org/document/10246976)
 
-- `Shuhua Deng`, Xing Gao, Zebin Lu, Zhengfa Li, Xieping Gao. DoS Vulnerabilities and Mitigation Strategies in Software-Defined Networks. *Journal of Network and Computer Applications*。 2019, 125: 209-219. (CCF C类期刊，中科院一区)
+- `Shuhua Deng`, Xing Gao, Zebin Lu, Zhengfa Li, Xieping Gao. DoS Vulnerabilities and Mitigation Strategies in Software-Defined Networks. *Journal of Network and Computer Applications*. 2019, 125: 209-219. (CCF C类期刊，中科院一区)
 [[网页]](https://www.sciencedirect.com/science/article/pii/S1084804518303333)
 
 - `Shuhua Deng`, Xing Gao, Zebin Lu, Xieping Gao. Packet Injection Attack and Its Defense in Software-Defined Networks. *IEEE Transactions on Information Forensics and Security*. 2018, 13(3): 695-705. (CCF A类期刊，中科院一区)
