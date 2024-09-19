@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 简介
 邓书华，博士毕业于湘潭大学数学与计算科学学院，导师高协平教授。本科毕业于湘潭大学信息工程学院。包括合著，在国内外期刊公开发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=pA3O_uIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
@@ -31,6 +32,11 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
+# 工作经历
+- *2023.01 - 至今*, 湘潭大学 计算机学院·网络空间安全学院 副教授
+- *2020.01-2022.12*, 湘潭大学 计算机学院·网络空间安全学院 讲师
+- *2019.01-2019.12*, 湘潭大学 信息工程学院 讲师
+  
 # 🎓 学历
 - *2013.06 - 2018.12*, <a href="https://www.xtu.edu.cn/"> 湘潭大学 数学与计算科学学院, 湖南湘潭, 硕博连读 
 - *2009.09 - 2013.06*, <a href="https://www.xtu.edu.cn/">湘潭大学 信息工程学院, 湖南湘潭, 本科
